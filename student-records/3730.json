@@ -1,7 +1,7 @@
 {
   "MatricNo": "3730",
   "FirstName": "Khaulatu",
-  "Middlename": "Nan",
+  "Middlename": "",
   "Surname": "Yusuf",
   "GSMNo": "08163121189",
   "StateOfOrigin": "Niger",
@@ -9,7 +9,7 @@
   "DateOfBirth": "26/04/2005",
   "DateOfGraduation": "29/01/2026",
   "Status": "Fresh",
-  "Gender": "F",
+  "Gender": "FEMALE",
   "MaritalStatus": "Single",
   "JambRegNo": "11143397ID",
   "IsMilitary": "NO",

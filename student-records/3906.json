@@ -1,7 +1,7 @@
 {
   "MatricNo": "3906",
   "FirstName": "Timbyen",
-  "Middlename": "Nan",
+  "Middlename": "",
   "Surname": "Ponpyal",
   "GSMNo": "07018231142",
   "StateOfOrigin": "Plateau",
@@ -9,7 +9,7 @@
   "DateOfBirth": "13/07/2000",
   "DateOfGraduation": "29/01/2026",
   "Status": "Fresh",
-  "Gender": "F",
+  "Gender": "FEMALE",
   "MaritalStatus": "Single",
   "JambRegNo": "10922698FI",
   "IsMilitary": "NO",

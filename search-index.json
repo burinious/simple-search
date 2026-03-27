@@ -67,8 +67,8 @@
     "MatricNo": "2877",
     "FirstName": "Success",
     "Middlename": "Philip",
-    "Surname": "Adebayo-Adesina",
-    "FullName": "Adebayo-Adesina Success Philip",
+    "Surname": "Adebayo- Adesina",
+    "FullName": "Adebayo- Adesina Success Philip",
     "RecordFile": "student-records/2877.json"
   },
   {
@@ -88,20 +88,20 @@
     "RecordFile": "student-records/3536.json"
   },
   {
-    "MatricNo": "6903",
-    "FirstName": "Eniola",
-    "Middlename": "Faith",
-    "Surname": "Adedayo",
-    "FullName": "Adedayo Eniola Faith",
-    "RecordFile": "student-records/6903.json"
-  },
-  {
     "MatricNo": "5937",
     "FirstName": "Iyanuoluwa",
     "Middlename": "Abosede",
     "Surname": "Adedayo",
     "FullName": "Adedayo Iyanuoluwa Abosede",
     "RecordFile": "student-records/5937.json"
+  },
+  {
+    "MatricNo": "6903",
+    "FirstName": "Omolola",
+    "Middlename": "Faith",
+    "Surname": "Adedayo",
+    "FullName": "Adedayo Omolola Faith",
+    "RecordFile": "student-records/6903.json"
   },
   {
     "MatricNo": "2722",
@@ -130,25 +130,25 @@
   {
     "MatricNo": "0963",
     "FirstName": "Adeola",
-    "Middlename": "Nan",
+    "Middlename": "",
     "Surname": "Adegboyega",
-    "FullName": "Adegboyega Adeola Nan",
+    "FullName": "Adegboyega Adeola",
     "RecordFile": "student-records/0963.json"
   },
   {
     "MatricNo": "0490",
-    "FirstName": "Timilehin",
+    "FirstName": "Oluwatimilehin",
     "Middlename": "John",
     "Surname": "Adegoke",
-    "FullName": "Adegoke Timilehin John",
+    "FullName": "Adegoke Oluwatimilehin John",
     "RecordFile": "student-records/0490.json"
   },
   {
     "MatricNo": "3286",
-    "FirstName": "Blessing",
-    "Middlename": "Adenike",
+    "FirstName": "Adenike",
+    "Middlename": "Blessing",
     "Surname": "Adejuyigbe",
-    "FullName": "Adejuyigbe Blessing Adenike",
+    "FullName": "Adejuyigbe Adenike Blessing",
     "RecordFile": "student-records/3286.json"
   },
   {
@@ -248,20 +248,20 @@
     "RecordFile": "student-records/2016.json"
   },
   {
-    "MatricNo": "0504",
-    "FirstName": "Ayomide",
-    "Middlename": "Daniel",
-    "Surname": "Adetunji",
-    "FullName": "Adetunji Ayomide Daniel",
-    "RecordFile": "student-records/0504.json"
-  },
-  {
     "MatricNo": "4218",
     "FirstName": "Ayotomiwa",
     "Middlename": "Omobosede",
     "Surname": "Adetunji",
     "FullName": "Adetunji Ayotomiwa Omobosede",
     "RecordFile": "student-records/4218.json"
+  },
+  {
+    "MatricNo": "0504",
+    "FirstName": "Daniel",
+    "Middlename": "Ayomide",
+    "Surname": "Adetunji",
+    "FullName": "Adetunji Daniel Ayomide",
+    "RecordFile": "student-records/0504.json"
   },
   {
     "MatricNo": "2020",
@@ -289,10 +289,10 @@
   },
   {
     "MatricNo": "2521",
-    "FirstName": "Isreal",
+    "FirstName": "Israel",
     "Middlename": "Oluwafemi",
     "Surname": "Adewole",
-    "FullName": "Adewole Isreal Oluwafemi",
+    "FullName": "Adewole Israel Oluwafemi",
     "RecordFile": "student-records/2521.json"
   },
   {
@@ -385,10 +385,10 @@
   },
   {
     "MatricNo": "6925",
-    "FirstName": "Ayomide",
-    "Middlename": "Samuel",
+    "FirstName": "Adetutu",
+    "Middlename": "Tejumade",
     "Surname": "Afolayan",
-    "FullName": "Afolayan Ayomide Samuel",
+    "FullName": "Afolayan Adetutu Tejumade",
     "RecordFile": "student-records/6925.json"
   },
   {
@@ -418,9 +418,9 @@
   {
     "MatricNo": "2900",
     "FirstName": "Precious",
-    "Middlename": "Toeeb",
+    "Middlename": "Toheeb",
     "Surname": "Ahmed",
-    "FullName": "Ahmed Precious Toeeb",
+    "FullName": "Ahmed Precious Toheeb",
     "RecordFile": "student-records/2900.json"
   },
   {
@@ -456,22 +456,6 @@
     "RecordFile": "student-records/0523.json"
   },
   {
-    "MatricNo": "0652",
-    "FirstName": "Charles",
-    "Middlename": "Tolulope",
-    "Surname": "Ajayi",
-    "FullName": "Ajayi Charles Tolulope",
-    "RecordFile": "student-records/0652.json"
-  },
-  {
-    "MatricNo": "4225",
-    "FirstName": "Olajumoke",
-    "Middlename": "Blessing",
-    "Surname": "Ajayi",
-    "FullName": "Ajayi Olajumoke Blessing",
-    "RecordFile": "student-records/4225.json"
-  },
-  {
     "MatricNo": "0860",
     "FirstName": "Olawale",
     "Middlename": "Tony",
@@ -481,10 +465,10 @@
   },
   {
     "MatricNo": "4282",
-    "FirstName": "Success",
-    "Middlename": "Oluwapelumi",
+    "FirstName": "Oluwapelumi",
+    "Middlename": "Success",
     "Surname": "Ajayi",
-    "FullName": "Ajayi Success Oluwapelumi",
+    "FullName": "Ajayi Oluwapelumi Success",
     "RecordFile": "student-records/4282.json"
   },
   {
@@ -497,10 +481,10 @@
   },
   {
     "MatricNo": "3106",
-    "FirstName": "Olwuagbohunmi",
+    "FirstName": "Oluwagbohunmi",
     "Middlename": "Samuel",
     "Surname": "Ajeigbe",
-    "FullName": "Ajeigbe Olwuagbohunmi Samuel",
+    "FullName": "Ajeigbe Oluwagbohunmi Samuel",
     "RecordFile": "student-records/3106.json"
   },
   {
@@ -521,10 +505,10 @@
   },
   {
     "MatricNo": "3320",
-    "FirstName": "Oluwabukunmi",
+    "FirstName": "Olubukunmi",
     "Middlename": "Helen",
     "Surname": "Ajisafe",
-    "FullName": "Ajisafe Oluwabukunmi Helen",
+    "FullName": "Ajisafe Olubukunmi Helen",
     "RecordFile": "student-records/3320.json"
   },
   {
@@ -538,9 +522,9 @@
   {
     "MatricNo": "4324",
     "FirstName": "Comfort",
-    "Middlename": "Nan",
+    "Middlename": "",
     "Surname": "Akanji",
-    "FullName": "Akanji Comfort Nan",
+    "FullName": "Akanji Comfort",
     "RecordFile": "student-records/4324.json"
   },
   {
@@ -553,10 +537,10 @@
   },
   {
     "MatricNo": "1155",
-    "FirstName": "Akintayo",
-    "Middlename": "Excellence",
+    "FirstName": "Excellence",
+    "Middlename": "Akintayo",
     "Surname": "Akindeju",
-    "FullName": "Akindeju Akintayo Excellence",
+    "FullName": "Akindeju Excellence Akintayo",
     "RecordFile": "student-records/1155.json"
   },
   {
@@ -585,10 +569,10 @@
   },
   {
     "MatricNo": "6499",
-    "FirstName": "Precious",
-    "Middlename": "Oreoluwa",
+    "FirstName": "Oreoluwa",
+    "Middlename": "Precious",
     "Surname": "Akinneye",
-    "FullName": "Akinneye Precious Oreoluwa",
+    "FullName": "Akinneye Oreoluwa Precious",
     "RecordFile": "student-records/6499.json"
   },
   {
@@ -705,10 +689,10 @@
   },
   {
     "MatricNo": "3113",
-    "FirstName": "Adurapemi",
-    "Middlename": "Aanu",
+    "FirstName": "Akomolafe",
+    "Middlename": "Adurapemi",
     "Surname": "Akomolafe",
-    "FullName": "Akomolafe Adurapemi Aanu",
+    "FullName": "Akomolafe Akomolafe Adurapemi",
     "RecordFile": "student-records/3113.json"
   },
   {
@@ -761,10 +745,10 @@
   },
   {
     "MatricNo": "1189",
-    "FirstName": "Phoebe",
-    "Middlename": "Temitayo",
+    "FirstName": "Temitayo",
+    "Middlename": "Phoebe",
     "Surname": "Anifowose",
-    "FullName": "Anifowose Phoebe Temitayo",
+    "FullName": "Anifowose Temitayo Phoebe",
     "RecordFile": "student-records/1189.json"
   },
   {
@@ -774,14 +758,6 @@
     "Surname": "Are",
     "FullName": "Are Abiodun Joshua",
     "RecordFile": "student-records/0547.json"
-  },
-  {
-    "MatricNo": "0990",
-    "FirstName": "Precious",
-    "Middlename": "Ayomide",
-    "Surname": "Areola",
-    "FullName": "Areola Precious Ayomide",
-    "RecordFile": "student-records/0990.json"
   },
   {
     "MatricNo": "0991",
@@ -880,11 +856,19 @@
     "RecordFile": "student-records/3357.json"
   },
   {
+    "MatricNo": "0990",
+    "FirstName": "Precious",
+    "Middlename": "Ayomide",
+    "Surname": "Ayomide",
+    "FullName": "Ayomide Precious Ayomide",
+    "RecordFile": "student-records/0990.json"
+  },
+  {
     "MatricNo": "3029",
-    "FirstName": "Tiri",
-    "Middlename": "Hassan Olademeji",
-    "Surname": "Badmus",
-    "FullName": "Badmus Tiri Hassan Olademeji",
+    "FirstName": "Hassan",
+    "Middlename": "Oladimeji",
+    "Surname": "Badmus-Tiri",
+    "FullName": "Badmus-Tiri Hassan Oladimeji",
     "RecordFile": "student-records/3029.json"
   },
   {
@@ -986,9 +970,9 @@
   {
     "MatricNo": "3376",
     "FirstName": "Inioluwa",
-    "Middlename": "Ayomide",
+    "Middlename": "Racheal",
     "Surname": "David",
-    "FullName": "David Inioluwa Ayomide",
+    "FullName": "David Inioluwa Racheal",
     "RecordFile": "student-records/3376.json"
   },
   {
@@ -1081,10 +1065,10 @@
   },
   {
     "MatricNo": "2369",
-    "FirstName": "Oluwatimileyin",
-    "Middlename": "Daniel",
+    "FirstName": "Daniel",
+    "Middlename": "Timileyin",
     "Surname": "Famuagun",
-    "FullName": "Famuagun Oluwatimileyin Daniel",
+    "FullName": "Famuagun Daniel Timileyin",
     "RecordFile": "student-records/2369.json"
   },
   {
@@ -1251,8 +1235,8 @@
     "MatricNo": "3399",
     "FirstName": "Bunmi",
     "Middlename": "Oreoluwa",
-    "Surname": "Jemiluyi",
-    "FullName": "Jemiluyi Bunmi Oreoluwa",
+    "Surname": "Jemiluyi Hi",
+    "FullName": "Jemiluyi Hi Bunmi Oreoluwa",
     "RecordFile": "student-records/3399.json"
   },
   {
@@ -1354,9 +1338,9 @@
   {
     "MatricNo": "3772",
     "FirstName": "Blessing",
-    "Middlename": "Nan",
+    "Middlename": "",
     "Surname": "Ogunniyi",
-    "FullName": "Ogunniyi Blessing Nan",
+    "FullName": "Ogunniyi Blessing",
     "RecordFile": "student-records/3772.json"
   },
   {
@@ -1528,6 +1512,14 @@
     "RecordFile": "student-records/0099.json"
   },
   {
+    "MatricNo": "0444",
+    "FirstName": "Olamilekan",
+    "Middlename": "Ibrahim",
+    "Surname": "Oladipo",
+    "FullName": "Oladipo Olamilekan Ibrahim",
+    "RecordFile": "student-records/0444.json"
+  },
+  {
     "MatricNo": "0197",
     "FirstName": "Adenike",
     "Middlename": "Oluwatoyin",
@@ -1544,20 +1536,20 @@
     "RecordFile": "student-records/2542.json"
   },
   {
+    "MatricNo": "4225",
+    "FirstName": "Ajayi",
+    "Middlename": "Blessing",
+    "Surname": "Olajumoke",
+    "FullName": "Olajumoke Ajayi Blessing",
+    "RecordFile": "student-records/4225.json"
+  },
+  {
     "MatricNo": "2982",
     "FirstName": "Ayomide",
     "Middlename": "Adenike",
     "Surname": "Olaniran",
     "FullName": "Olaniran Ayomide Adenike",
     "RecordFile": "student-records/2982.json"
-  },
-  {
-    "MatricNo": "0444",
-    "FirstName": "Moyinoluwa",
-    "Middlename": "Sharon",
-    "Surname": "Olaniyan",
-    "FullName": "Olaniyan Moyinoluwa Sharon",
-    "RecordFile": "student-records/0444.json"
   },
   {
     "MatricNo": "3776",
@@ -1641,10 +1633,10 @@
   },
   {
     "MatricNo": "1826",
-    "FirstName": "Franklin",
-    "Middlename": "Oluwaseun",
+    "FirstName": "Oluwaseun",
+    "Middlename": "Franklin",
     "Surname": "Olowosile",
-    "FullName": "Olowosile Franklin Oluwaseun",
+    "FullName": "Olowosile Oluwaseun Franklin",
     "RecordFile": "student-records/1826.json"
   },
   {
@@ -1686,6 +1678,14 @@
     "Surname": "Oluwabamise",
     "FullName": "Oluwabamise Kehinde Faith",
     "RecordFile": "student-records/2290.json"
+  },
+  {
+    "MatricNo": "0652",
+    "FirstName": "Blessing",
+    "Middlename": "Oluwatomisin",
+    "Surname": "Oluwadare",
+    "FullName": "Oluwadare Blessing Oluwatomisin",
+    "RecordFile": "student-records/0652.json"
   },
   {
     "MatricNo": "0115",
@@ -1753,10 +1753,10 @@
   },
   {
     "MatricNo": "2995",
-    "FirstName": "Convenant",
+    "FirstName": "Covenant",
     "Middlename": "Ayomilekan",
     "Surname": "Oluwasuyi",
-    "FullName": "Oluwasuyi Convenant Ayomilekan",
+    "FullName": "Oluwasuyi Covenant Ayomilekan",
     "RecordFile": "student-records/2995.json"
   },
   {
@@ -1914,9 +1914,9 @@
   {
     "MatricNo": "1951",
     "FirstName": "Temitope",
-    "Middlename": "Michael",
+    "Middlename": "Micheal",
     "Surname": "Owolabi",
-    "FullName": "Owolabi Temitope Michael",
+    "FullName": "Owolabi Temitope Micheal",
     "RecordFile": "student-records/1951.json"
   },
   {
@@ -1954,9 +1954,9 @@
   {
     "MatricNo": "3906",
     "FirstName": "Timbyen",
-    "Middlename": "Nan",
+    "Middlename": "",
     "Surname": "Ponpyal",
-    "FullName": "Ponpyal Timbyen Nan",
+    "FullName": "Ponpyal Timbyen",
     "RecordFile": "student-records/3906.json"
   },
   {
@@ -1985,18 +1985,18 @@
   },
   {
     "MatricNo": "2865",
-    "FirstName": "Muhammed",
+    "FirstName": "Muhammad",
     "Middlename": "Ahovi",
     "Surname": "Shuaib",
-    "FullName": "Shuaib Muhammed Ahovi",
+    "FullName": "Shuaib Muhammad Ahovi",
     "RecordFile": "student-records/2865.json"
   },
   {
     "MatricNo": "3038",
     "FirstName": "Faeren",
-    "Middlename": "Nan",
+    "Middlename": "",
     "Surname": "Simon",
-    "FullName": "Simon Faeren Nan",
+    "FullName": "Simon Faeren",
     "RecordFile": "student-records/3038.json"
   },
   {
@@ -2058,9 +2058,9 @@
   {
     "MatricNo": "0347",
     "FirstName": "Ogunsakin",
-    "Middlename": "Nan",
+    "Middlename": "",
     "Surname": "Tope",
-    "FullName": "Tope Ogunsakin Nan",
+    "FullName": "Tope Ogunsakin",
     "RecordFile": "student-records/0347.json"
   },
   {
@@ -2082,9 +2082,9 @@
   {
     "MatricNo": "3730",
     "FirstName": "Khaulatu",
-    "Middlename": "Nan",
+    "Middlename": "",
     "Surname": "Yusuf",
-    "FullName": "Yusuf Khaulatu Nan",
+    "FullName": "Yusuf Khaulatu",
     "RecordFile": "student-records/3730.json"
   }
 ]
