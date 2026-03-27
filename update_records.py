@@ -8,8 +8,8 @@ from openpyxl import load_workbook
 
 
 DEFAULT_SOURCES = [
-    r"C:\Users\USER PCX\Downloads\Without_ClassOfDegree.xlsx",
-    r"C:\Users\USER PCX\Downloads\With_ClassOfDegree.xlsx",
+    r"C:\Users\USER PCX\Desktop\nysc new files\Without_Class_Final_Rebuild.xlsx",
+    r"C:\Users\USER PCX\Desktop\nysc new files\With_Class_Final_Rebuild.xlsx",
 ]
 
 KEEP_FIELDS = [
