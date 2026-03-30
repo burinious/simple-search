@@ -3,43 +3,107 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Student Search</title>
+  <title>Simple Search</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <main class="page">
-    <section class="search-panel" aria-labelledby="page-title">
-      <p class="eyebrow">Student Records</p>
-      <h1 id="page-title">Simple Student Search</h1>
-      <p class="intro">
-        Search by matric number, surname, or full name.
-      </p>
+    <section class="layout-shell" aria-labelledby="page-title">
+      <section class="search-panel">
+        <p class="eyebrow">Records</p>
+        <h1 id="page-title">Simple Search</h1>
+        <p class="intro">
+          Search by matric number or name, or upload a JSON file and view the details inside it.
+        </p>
 
-      <form id="search-form" class="search-form">
-        <label class="sr-only" for="search-input">Search student records</label>
-        <input
-          id="search-input"
-          class="search-input"
-          type="text"
-          placeholder="Enter matric number or name"
-          autocomplete="off"
-        >
-        <div class="button-row">
-          <button type="submit" class="btn btn-primary">Search</button>
-          <button type="button" id="clear-button" class="btn btn-secondary">Clear</button>
+        <div class="panel-meta" aria-label="Search capabilities">
+          <span class="status-pill">Local search</span>
+          <span class="meta-note">Matric no, surname, or full name</span>
         </div>
-      </form>
 
-      <div id="loading-indicator" class="loading" aria-live="polite" hidden>
-        <span class="spinner" aria-hidden="true"></span>
-        <span id="loading-text">Loading student records...</span>
-      </div>
+        <form id="search-form" class="search-form">
+          <label class="sr-only" for="search-input">Search records</label>
+          <div class="search-stack">
+            <input
+              id="search-input"
+              class="search-input"
+              type="text"
+              placeholder="Try 0845 or Uthman"
+              autocomplete="off"
+            >
+            <button type="submit" class="btn btn-primary">Search</button>
+          </div>
+          <div class="button-row">
+            <button type="button" id="clear-button" class="btn btn-secondary">Clear</button>
+            <span class="helper-text">Press <kbd>/</kbd> to focus</span>
+          </div>
+        </form>
 
-      <section id="results" class="results" aria-live="polite">
-        <div class="empty-state">
-          Enter a matric number or student name to begin.
+        <div id="quick-searches" class="quick-searches" aria-label="Quick search examples"></div>
+
+        <section class="upload-panel" aria-labelledby="upload-title">
+          <div class="history-header">
+            <h2 id="upload-title" class="section-title">Upload</h2>
+            <span id="upload-status" class="upload-status">No file selected</span>
+          </div>
+          <div class="upload-actions">
+            <label for="upload-input" class="text-button upload-button">Upload JSON</label>
+            <input id="upload-input" class="sr-only" type="file" accept=".json,application/json">
+            <span class="helper-text">Single record or array of records</span>
+          </div>
+        </section>
+
+        <section class="history-panel" aria-labelledby="history-title">
+          <div class="history-header">
+            <h2 id="history-title" class="section-title">Recent searches</h2>
+            <button type="button" id="clear-history-button" class="text-button" hidden>Clear history</button>
+          </div>
+          <div id="search-history" class="search-history">
+            <p class="history-empty">Your recent searches will appear here.</p>
+          </div>
+        </section>
+
+        <div id="loading-indicator" class="loading" aria-live="polite" hidden>
+          <span class="spinner" aria-hidden="true"></span>
+          <span id="loading-text">Loading records...</span>
         </div>
+
+        <div id="results-meta" class="results-meta" hidden></div>
+
+        <section id="results" class="results" aria-live="polite">
+          <div class="empty-state">
+            Enter a matric number or student name to begin.
+          </div>
+        </section>
       </section>
+
+      <aside class="info-panel" aria-label="Search overview">
+        <div class="info-card hero-card">
+          <p class="info-label">Why it works</p>
+          <h2>Simple, direct, and built for quick checks.</h2>
+          <p>
+            Search is handled locally, so results appear without extra pages, menus, or server round-trips.
+          </p>
+        </div>
+
+        <div class="info-grid">
+          <article class="info-card">
+            <p class="info-label">Index</p>
+            <strong id="record-count" class="info-value">Ready</strong>
+            <p>Loads the student index once, then reuses it for faster lookups.</p>
+          </article>
+          <article class="info-card">
+            <p class="info-label">Matches</p>
+            <strong class="info-value">Smart</strong>
+            <p>Exact matric hits come first. Name searches are ranked to keep the best results on top.</p>
+          </article>
+          <article class="info-card">
+            <p class="info-label">Flow</p>
+            <strong class="info-value">Focused</strong>
+            <p>Quick examples, cleaner states, and less visual clutter.</p>
+          </article>
+        </div>
+      </aside>
     </section>
   </main>
 
